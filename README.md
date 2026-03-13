@@ -20,11 +20,10 @@ A simple weather application built using Flutter that fetches real-time weather 
 
 ## Screenshots
 ## Screenshots
+![Weather App Screenshot](screenshot1.jpeg)
 
-![Flutter Weather App](WhatsApp Image 2026-03-12 at 9.14.57 PM.jpeg)
-## Screenshots
+![Weather App Forecast](screenshot2.jpeg)
 
-![Flutter Weather App](WhatsApp Image 2026-03-12 at 9.14.56 PM.jpeg)
 
 
 
